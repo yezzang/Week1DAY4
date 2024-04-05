@@ -1,0 +1,54 @@
+div img {
+  width: 22px;
+  height: 22px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgb(195, 195, 195);
+  padding-bottom: 10px;
+}
+
+.info-bar-left {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.arrow-icon {
+  margin-right: 15px;
+}
+
+.info-bar-leftup {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.writer {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.manner_temp {
+  margin-left: 5px;
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 0px 7px 0px 7px;
+  font-weight: bold;
+}
+
+.reply-time {
+  color: rgb(195, 195, 195);
+}
+
+.info-bar-right {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.phone-icon {
+  margin-right: 8px;
+}
